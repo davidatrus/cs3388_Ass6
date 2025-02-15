@@ -14,3 +14,8 @@ The end product of this assignment is to have a program which just renders a pat
 + Integrated Gerstner wave algorithms within the geometry shader to simulate realistic water movement, and manually computed surface normals for accurate lighting using Phong shading techniques.
 + Diagnosed and resolved asset-loading challenges with BMP textures through effective debugging and workaround solutions, highlighting strong troubleshooting skills.
 ![alt text](https://github.com/davidatrus/cs3388_Ass6/blob/main/1.jpg?raw=true)
+![alt text](https://github.com/davidatrus/cs3388_Ass6/blob/main/2.jpg?raw=true)
+![alt text](https://github.com/davidatrus/cs3388_Ass6/blob/main/3.jpg?raw=true)
+![alt text](https://github.com/davidatrus/cs3388_Ass6/blob/main/4.jpg?raw=true)
+![alt text](https://github.com/davidatrus/cs3388_Ass6/blob/main/5.jpg?raw=true)
+![alt text](https://github.com/davidatrus/cs3388_Ass6/blob/main/6.jpg?raw=true)
